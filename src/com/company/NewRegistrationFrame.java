@@ -5,7 +5,10 @@ package com.company;
  */
 public class NewRegistrationFrame {
 
+<<<<<<< HEAD
     /**
      * TODO a frame to be implemented to take registration id
      */
+=======
+>>>>>>> origin/master
 }
